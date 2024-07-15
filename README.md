@@ -256,15 +256,15 @@ ArcticMeet could become even more awesome by making improvements to either the S
 
 <br>
 
-## 🤝 Contributing 🤝
-
-Contributions are welcome! Feel free to [open issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) or [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for any improvements or bug fixes.
-
-<br>
-
 ## ⭐ Star history ⭐
 
 [![Star history chart](https://api.star-history.com/svg?repos=rokbenko/arctic-meet&type=Date)](https://star-history.com/#rokbenko/arctic-meet&Date)
+
+<br>
+
+## 🤝 Contributing 🤝
+
+Contributions are welcome! Feel free to [open issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) or [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for any improvements or bug fixes.
 
 <br>
 
